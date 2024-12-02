@@ -1,4 +1,4 @@
-# **An Analysis of the Different Factors that Affect The Priority Level a 911 Call is Classified As.**
+# **An Analysis of the Different Factors that Affect the Priority Classification of a 911 Call.**
 
 ###### Fall 2024 Data Science Project
 ###### Collaborators: Ryan Eldho, Tiffany Lu, Akshay Badrinathan, Eli Choi
