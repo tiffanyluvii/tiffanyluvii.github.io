@@ -21,7 +21,7 @@ Identifying patterns that directly correlate with high-priority calls could help
 
 <p> The Data Collection Stage of the Data Science Life Cycle consists of finding relevant information that assists us in our analysis of 911 calls in Baltimore. One main criterion that we wanted to have in our dataset was plenty of entry points. This would allow us to easily determine any correlation that a factor has on the 911 call with more precision. </p>
 
-<p> Luckily the Baltimore 911 Dataset from Kaggle has over 200 thousand 911 calls from 2015 onward. Each call input has details including date, call time, district, district, description, etc. This gives us plenty of information to explore. After clicking on the <a href = "https://www.kaggle.com/datasets/sohier/baltimore-911-calls" >Kaggle Dataset</a>, download the following dataset. It should show up as <b>911_calls_for_services.csv</b> in your Downloads folder. Remember to move it to your project directory! </p>
+<p> Luckily the <b>Baltimore 911 Dataset</b> from Kaggle has over 200 thousand 911 calls from 2015 onward. Each call input has details including date, call time, district, district, description, etc. This gives us plenty of information to explore. After clicking on the <a href = "https://www.kaggle.com/datasets/sohier/baltimore-911-calls" >Kaggle Dataset</a>, download the following dataset. It should show up as <b>911_calls_for_services.csv</b> in your Downloads folder. Remember to move it to your project directory! </p>
 
 
 <p> Besides the dataset, we also need an IDE to develop this project in. We decided to code in Python as there are already plenty of libraries that we can utilize to help us throughout this Data Science Life Cycle. We also decided to work with <a href = "https://www.codecademy.com/article/introducing-jupyter-notebook#:~:text=Jupyter%20Notebook%20is%20a%20type,%2C%20debugging%2C%20and%20code%20completion.">Jupyter Notebook</a> as you're able to easily write Python code with it. </p>
@@ -44,7 +44,7 @@ Identifying patterns that directly correlate with high-priority calls could help
 <p> Pyplot is a module in Matplotlib that also offers functions to generate basic charts for visualization like line plots, bar charts, histograms, and scatter plots. Pyplot is used for its flexibility in creating custom plots for data analysis. </p>
 
 
-Below are the imports that you must have before we continue with **Data Processing**!
+Below are the imports that you must have before we continue with <b>Data Processing</b>!
 
 </div>
 
