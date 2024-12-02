@@ -9,10 +9,31 @@ In this tutorial, we will walk through the entire Data Science Life Cycle. To il
 
 Identifying patterns that directly correlate with high-priority calls could help reduce crime in the city and ultimately improve its safety, potentially removing it from the list of dangerous cities. This is why we chose to use Data Science to identify the key factors behind high-priority calls. This analysis could drive policy changes that make Baltimore a safer community. For instance, discovering that a particular district experiences a higher frequency of high-priority calls than others could result in the allocation of more police resources to that district. Similarly, if a specific crime is more prevalent in Baltimore compared to other cities, targeted policies could be introduced to reduce that crime. Not only would this enhance the quality of life in Baltimore, but it would also lead to more efficient use of existing resources.
 
+<h6 style="text-align:left;">Contents</h6>
+1. [Data Collection](#datacollection)
+2. [Data Processing](#dataprocessing)
+3. [Exploratory Analysis and Data Visualization](#exploratoryanalysisanddatavisualization)
+4. [Analysis, Hypothesis Testing, and ML](#analysis,hypothesistesting,andml)
+5. [Insights and Conclusions](#insightsandconclusions)
+
 <h2 style="text-align:center;">Data Collection</h2>
+blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+blahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
 <h2 style="text-align:center;">Data Processing</h2>
 
 <h2 style="text-align:center;">Exploratory Analysis and Data Visualization</h2>
+
+<h2 style="text-align:center;">Analysis, Hypothesis Testing, and ML</h2>
 
 <h2 style="text-align:center;">Insights and Conclusions</h2>
