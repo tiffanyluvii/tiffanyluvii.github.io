@@ -18,6 +18,9 @@ Identifying patterns that directly correlate with high-priority calls could help
 
 <div id = "datacollection">
 <h2 style="text-align:center;">Data Collection</h2>
+
+The Data Collection Stage of the Data Science Life Cycle consists of  We recognize that a large dataset would be the best when analyzing 911 calls. This w
+
 </div>
 
 <div id = "dataprocessing">
