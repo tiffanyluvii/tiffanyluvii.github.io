@@ -21,16 +21,16 @@ Identifying patterns that directly correlate with high-priority calls could help
 
 <p> The Data Collection Stage of the Data Science Life Cycle consists of finding relevant information that assists us in our analysis of 911 calls in Baltimore. One main criterion that we wanted to have in our dataset was plenty of entry points. This would allow us to easily determine any correlation that a factor has on the 911 call with more precision. </p>
 
-<p> Luckily the Baltimore 911 Dataset from Kaggle has over 200 thousand 911 calls from 2015 onward. Each call input has details including date, call time, district, district, description, etc. This gives us plenty of information to explore. After clicking on the <a href = "https://www.kaggle.com/datasets/sohier/baltimore-911-calls" >Kaggle Dataset</a>, download the following dataset. It should show up as 911_calls_for_services.csv in your Downloads folder. Remember to move it to your project directory! </p>
+<p> Luckily the Baltimore 911 Dataset from Kaggle has over 200 thousand 911 calls from 2015 onward. Each call input has details including date, call time, district, district, description, etc. This gives us plenty of information to explore. After clicking on the <a href = "https://www.kaggle.com/datasets/sohier/baltimore-911-calls" >Kaggle Dataset</a>, download the following dataset. It should show up as <b>911_calls_for_services.csv</b> in your Downloads folder. Remember to move it to your project directory! </p>
 
 
-<p> Besides the dataset, we also need an IDE to develop this project in. We decided to code in Python as there are already plenty of libraries that we can utilize to help us throughout this Data Science Life Cycle. We also decided to work with <a href = [Jupyter Notebook](https://www.codecademy.com/article/introducing-jupyter-notebook#:~:text=Jupyter%20Notebook%20is%20a%20type,%2C%20debugging%2C%20and%20code%20completion.) as you're able to easily write Python code with it. </p>
+<p> Besides the dataset, we also need an IDE to develop this project in. We decided to code in Python as there are already plenty of libraries that we can utilize to help us throughout this Data Science Life Cycle. We also decided to work with <a href = "https://www.codecademy.com/article/introducing-jupyter-notebook#:~:text=Jupyter%20Notebook%20is%20a%20type,%2C%20debugging%2C%20and%20code%20completion.">Jupyter Notebook</a> as you're able to easily write Python code with it. </p>
 
 
-<p> Before we start utilizing the libraries, we must import them within the Jupyter Notebook. Some common libraries that we will be utilizing are [Pandas](https://pandas.pydata.org/docs/user_guide/index.html), [NumPy](https://numpy.org/doc/stable/user/), [SeaBorn](https://seaborn.pydata.org/tutorial/introduction.html), and [PyPlot](https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html). </p>
+<p> Before we start utilizing the libraries, we must import them within the Jupyter Notebook. Some common libraries that we will be utilizing are <a href = "https://pandas.pydata.org/docs/user_guide/index.html">Pandas</a>, <a href = "https://numpy.org/doc/stable/user/">NumPy</a>, <a href = "https://seaborn.pydata.org/tutorial/introduction.html">SeaBorn</a>, and <a href = "https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html">PyPlot</a>. </p>
 
 
-<h5> Reasons Why We Use Each Library </h5>
+<h4> Reasons Why We Use Each Library </h4>
 
 <p> Pandas is a powerful Python library for data manipulation and analysis, offering flexible data structures like DataFrames and Series to efficiently handle, clean, and transform data. It supports various operations such as filtering, grouping, aggregation, and handling missing values, making it essential for tasks like data cleaning, exploration, and time series analysis. </p>
 
